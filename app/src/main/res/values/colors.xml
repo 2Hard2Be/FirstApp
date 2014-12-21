@@ -8,5 +8,6 @@
     <color name = "tab_background_gradient_start_color">#e18667</color>
     <color name = "tab_background_gradient_end_color">#2e28dd</color>
     <color name = "actionbar_background_color">#c15cbd</color>
+    <color name = "orange">#ec3b00</color>
 
 </resources>

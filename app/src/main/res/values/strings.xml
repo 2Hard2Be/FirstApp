@@ -2,12 +2,12 @@
 <resources>
 
     <string name="app_name">myfirstapp</string>
-    <string name="edit_message">Enter a message</string>
-    <string name="button_send">Send</string>
-    <string name="title_activity_display_message">My Message</string>
+    <string name="edit_message">Introduce un texto</string>
+    <string name="button_send">Envialo</string>
+    <string name="title_activity_display_message">Mi mensaje</string>
     <string name="hello_world">Hello world!</string>
-    <string name="action_search">Search</string>
-    <string name="action_settings">Vas bien</string>
-    <string name="ok">Fuegue!!!</string>
-    <string name="cancel">Napo</string>
+    <string name="action_search">Buscalo</string>
+    <string name="action_settings">Configuralo</string>
+    <string name="search">Boton search presionado</string>
+    <string name="settings">Boton cofiguraciones presionado</string>
 </resources>

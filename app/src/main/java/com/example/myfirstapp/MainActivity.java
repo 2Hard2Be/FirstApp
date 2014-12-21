@@ -67,11 +67,11 @@ public class MainActivity extends ActionBarActivity {
     }
 
     private void openSettings() {
-        Toast.makeText(this, "Open settings pushed", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "@search", Toast.LENGTH_SHORT).show();
     }
 
     private void openSearch() {
-        Toast.makeText(this, "Seach button pressed", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "settings", Toast.LENGTH_SHORT).show();
     }
 
 
